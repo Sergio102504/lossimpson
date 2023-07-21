@@ -1,6 +1,5 @@
 import Container from "./components/Container";
 import Header from "./components/Header";
-import styled from "styled-components";
 import Welcome from "./components/Welcome"; //tenemos img, del componente welcome
 import CharaterContainer from "./components/CharactersContainer";
 import { useState } from "react";
